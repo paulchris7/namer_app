@@ -11,4 +11,6 @@ A simple and fun Flutter application that generates random name combinations! Th
 
 ## 🖼️ Screenshots
 
-> *(Add screenshots of your app here if available)*
+> ![Aperçu de l'app](screenshots/home_screen.png)
+> ![Aperçu de l'app](screenshots/favorite_screen.png)
+> ![Aperçu de l'app](screenshots/word_history.png)
